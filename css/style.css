@@ -1,7 +1,10 @@
 body{
     background-color: red;
 }
-
 footer{
+  background-color: aqua;
+}
+ nav{
+    display: block;
     background-color: aqua;
 }
